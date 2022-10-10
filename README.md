@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tauri-st
-- 👀 I’m interested in front-end development and microprocessors!
+- 👀 I’m interested in front-end development and design!
 - 🌱 I’m currently learning Javascript React
 - 💞️ I’m looking to collaborate on accessible coding projects!
 - 📫 How to reach me: tauristclaire@gmail.com
