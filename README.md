@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tauri-st
 - 👀 I’m interested in front-end development and design!
-- 🌱 I’m currently learning Javascript React
+- 🌱 I’m currently building new websites!
 - 💞️ I’m looking to collaborate on accessible coding projects!
 - 📫 How to reach me: tauristclaire@gmail.com
 
